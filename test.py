@@ -8,5 +8,6 @@ x=1
 y=1.5
 z=1j
 print (x,y,z)
+print (z)
 
 
